@@ -57,7 +57,7 @@ The API Controller Layer exposes RESTful endpoints for client applications. It h
 ## User Manual
 
 ### Prerequisites
-- **.NET 6.0+** or compatible version
+- **.NET 8.0+** or compatible version
 - **SQL Server** (LocalDB or full instance)
 - **Visual Studio 2022** or VS Code with C# extensions
 - **Git** for cloning the repository
